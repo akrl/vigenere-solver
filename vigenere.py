@@ -1,5 +1,5 @@
 # A program to decipher vigenere cipher
-# Author: Anil Kiral anil@anilkiral.info
+# Author: Anil Kiral anil@kir.al
 # Date: 21/11/2013
 
 
